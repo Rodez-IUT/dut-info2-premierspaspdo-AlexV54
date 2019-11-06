@@ -1,7 +1,7 @@
 # INFO2-PremiersPasPDO
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP : 
-- [X] TD1
-- [ ] TD2
+### NOM : Verge
+### Prénom : Alexandre
+### Groupe de TP :
+- [] TD1
+- [X] TD2
