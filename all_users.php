@@ -33,6 +33,16 @@
 			<div class="col-xs-12">
 			
 				<h1>All Users</h1>
+				
+				
+				<form method="get" id="formulaire">
+					Start with a letter:<input="text"></input>
+					and status is:
+					<select id="">
+						<option></option>
+					</select>
+				</form>
+				
 				<table class="table table-bordered table-striped">
 					<tr>
 						<th>Id</th>
@@ -57,7 +67,7 @@
 								echo "<td>".$row['username']."</td>";
 								echo "<td>".$row['email']."</td>";
 								echo "<td>".$row['name']."</td>";
-							echo "</tr>";
+							echo "</tr>";//
 						}
 					?>
 				</table>			
